@@ -1,5 +1,5 @@
 # Tisoncik-Go_ZIKA_NHP_Geomx_FetalBrain
-Details for the analysis of GeoMx data 
+Details for the analysis of GeoMx data on Pigtail Macaque Fetal Brain regions infected with ZIKV
 
 Codes for DE analysis for GeoMx analysis 1.DSP_Analysis.r
 
