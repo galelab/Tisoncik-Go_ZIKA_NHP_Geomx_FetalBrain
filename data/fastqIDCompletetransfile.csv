@@ -1,0 +1,174 @@
+Sample_ID,slide name,scan name,panel,roi,segment,aoi,area
+DSP-1012307180827-B-A02,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,001,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-A03,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,002,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-A04,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,003,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-A05,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,004,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-A06,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,005,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-A07,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,006,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-A08,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,007,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-A09,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,008,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-A10,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,009,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-A11,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,010,GFAP,GFAP-aoi-001,14806.26
+DSP-1012307180827-B-A12,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,010,NeuN+,NeuN+-aoi-001,11545.23
+DSP-1012307180827-B-B01,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,010,Olig2,Olig2-aoi-001,7867.2
+DSP-1012307180827-B-B02,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,011,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-B03,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,012,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-B04,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,013,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-B05,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,014,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-B06,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,015,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-B07,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,016,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-B08,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,017,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-B09,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,018,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-B10,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,019,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-B11,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,020,GFAP,GFAP-aoi-001,124284.86
+DSP-1012307180827-B-B12,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,020,NeuN+,NeuN+-aoi-001,35569.4
+DSP-1012307180827-B-C01,19_193_4a 17_029_6a,19_193_4a 17_029_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,020,Olig2,Olig2-aoi-001,7523.96
+DSP-1012307180827-B-C02,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,001,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-C03,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,002,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-C04,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,003,GFAP,GFAP-aoi-001,30442.88
+DSP-1012307180827-B-C05,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,003,Olig2,Olig2-aoi-001,14741.71
+DSP-1012307180827-B-C06,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,003,NeuN+,NeuN+-aoi-001,25057.54
+DSP-1012307180827-B-C07,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,004,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-C08,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,005,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-C09,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,006,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-C10,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,007,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-C11,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,008,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-C12,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,009,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-D01,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,010,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-D02,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,011,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-D03,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,012,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-D04,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,013,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-D05,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,014,GFAP,GFAP-aoi-001,92889.68
+DSP-1012307180827-B-D06,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,014,Olig2,Olig2-aoi-001,8052.41
+DSP-1012307180827-B-D07,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,014,NeuN+,NeuN+-aoi-001,17063.48
+DSP-1012307180827-B-D08,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,015,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-D09,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,016,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-D10,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,017,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-D11,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,018,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-D12,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,019,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-E01,16_378_31a 16_183_4a,16_378_31a 16_183_4a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,020,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-E02,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,001,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-E03,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,002,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-E04,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,003,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-E05,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,004,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-E06,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,005,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-E07,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,006,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-E08,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,007,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-E09,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,008,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-E10,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,009,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-E11,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,010,GFAP,GFAP-aoi-001,81766.86
+DSP-1012307180827-B-E12,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,011,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-F01,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,012,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-F02,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,013,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-F03,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,014,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-F04,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,015,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-F05,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,016,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-F06,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,017,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-F07,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,018,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-F08,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,019,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-F09,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,020,GFAP,GFAP-aoi-001,29163.08
+DSP-1012307180827-B-F10,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,020,NeuN,NeuN-aoi-001,22487.93
+DSP-1012307180827-B-F11,16_111_4a 17_325_21a,16_111_4a 17_325_21a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,020,Olig2,Olig2-aoi-001,4651.32
+DSP-1012307180827-B-F12,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,001,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-G01,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,002,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-G02,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,003,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-G03,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,004,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-G04,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,005,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-G05,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,006,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-G06,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,007,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-G07,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,008,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-G08,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,009,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-G09,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,010,GFAP,GFAP-aoi-001,94308.28
+DSP-1012307180827-B-G10,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,010,NeuN+,NeuN+-aoi-001,21476.49
+DSP-1012307180827-B-G11,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,010,Olig2,Olig2-aoi-001,7747.01
+DSP-1012307180827-B-G12,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,011,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-H01,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,012,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-H02,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,013,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-H03,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,014,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-H04,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,015,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-H05,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,016,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-H06,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,017,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-H07,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,018,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-H08,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,019,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1012307180827-B-H09,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,020,GFAP,GFAP-aoi-001,93203.83
+DSP-1012307180827-B-H10,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,020,Olig2,Olig2-aoi-001,7611.4
+DSP-1012307180827-B-H11,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,021,Full ROI,Full ROI-aoi-001,120060.41
+DSP-1012307180827-B-H12,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,022,inclusions,inclusions-aoi-001,5178.34
+DSP-1012307180830-H-A02,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,023,Full ROI,Full ROI-aoi-001,119807.63
+DSP-1012307180830-H-A03,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,024,inclusions,inclusions-aoi-001,10163.68
+DSP-1012307180830-H-A04,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,025,Full ROI,Full ROI-aoi-001,70601.91
+DSP-1012307180830-H-A05,17_002_10a 17_019_6a,17_002_10a 17_019_6a,(v1.0) Human NGS Whole Transcriptome Atlas RNA,026,Full ROI,Full ROI-aoi-001,70601.91
+DSP-1001506181011-A-A02,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,001,Raj cells,Raj cells-aoi-001,14397.04
+DSP-1001506181011-A-A03,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,002,GFAP,GFAP-aoi-001,15310.39
+DSP-1001506181011-A-A04,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,003,Raj cells,Raj cells-aoi-001,11783.86
+DSP-1001506181011-A-A05,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,004,GFAP,GFAP-aoi-001,13358.42
+DSP-1001506181011-A-A06,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,005,GFAP,GFAP-aoi-001,10152.08
+DSP-1001506181011-A-A07,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,006,Raj cells,Raj cells-aoi-001,14529.47
+DSP-1001506181011-A-A08,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,007,GFAP,GFAP-aoi-001,21039.13
+DSP-1001506181011-A-A09,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,008,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1001506181011-A-A10,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,009,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1001506181011-A-A11,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,010,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1001506181011-A-A12,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,011,GFAP,GFAP-aoi-001,44438.02
+DSP-1001506181011-A-B01,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,011,NeuN,NeuN-aoi-001,17166.02
+DSP-1001506181011-A-B02,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,011,Olig2,Olig2-aoi-001,9088.65
+DSP-1001506181011-A-B03,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,012,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1001506181011-A-B04,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,013,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1001506181011-A-B05,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,014,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1001506181011-A-B06,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,015,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1001506181011-A-B07,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,016,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1001506181011-A-B08,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,017,Full ROI,Full ROI-aoi-001,196340.35
+DSP-1001506181011-A-B09,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,018,GFAP,GFAP-aoi-001,86524.7
+DSP-1001506181011-A-B10,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,018,NeuN,NeuN-aoi-001,7079.29
+DSP-1001506181011-A-B11,16_111_3_RK,16_111_3_RK,(v1.0) Human NGS Whole Transcriptome Atlas RNA,018,Olig2,Olig2-aoi-001,9197.87
+DSP-1001660009883-B-A02,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,001,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-A03,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,002,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-A04,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,003,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-A05,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,004,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-A06,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,005,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-A07,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,006,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-A08,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,007,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-A09,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,008,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-A10,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,009,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-A11,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,010,Gfap,Gfap-aoi-001,118100
+DSP-1001660009883-B-A12,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,010,Neun,Neun-aoi-001,11556.36
+DSP-1001660009883-B-B01,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,010,Olig2,Olig2-aoi-001,37702.05
+DSP-1001660009883-B-B02,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,011,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-B03,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,012,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-B04,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,013,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-B05,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,014,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-B06,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,015,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-B07,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,016,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-B08,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,017,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-B09,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,018,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-B10,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,019,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-B11,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,020,Full ROI,Full ROI-aoi-001,516962.6
+DSP-1001660009883-B-B12,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,021,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-C01,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,022,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-C02,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,023,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-C03,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,024,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-C04,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,025,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-C05,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,026,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-C06,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,027,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-C07,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,028,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-C08,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,029,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-C09,slide_01,slide_01_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,030,Full ROI,Full ROI-aoi-001,516962.6
+DSP-1001660009883-B-C10,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,001,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-C11,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,002,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-C12,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,003,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-D01,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,004,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-D02,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,005,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-D03,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,006,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-D04,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,007,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-D05,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,008,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-D06,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,009,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-D07,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,010,Full ROI,Full ROI-aoi-001,516962.6
+DSP-1001660009883-B-D08,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,011,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-D09,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,012,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-D10,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,013,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-D11,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,014,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-D12,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,015,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-E01,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,016,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-E02,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,017,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-E03,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,018,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-E04,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,019,Full ROI,Full ROI-aoi-001,196405.63
+DSP-1001660009883-B-E05,slide_02,slide_02_scan,(v1.0) Human NGS Whole Transcriptome Atlas RNA,020,Full ROI,Full ROI-aoi-001,516962.6
