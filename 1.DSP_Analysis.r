@@ -805,7 +805,7 @@ count_data <- "1.count_data"
 generate_folder(count_data)
 
 #read in translation file.. dsp IDs to slide IDS
-dsp2slidetrans <- read.xlsx("./fastqIDCompletetransfile.xlsx", sheet = 1)
+dsp2slidetrans <- read.xlsx("../data/fastqIDCompletetransfile.xlsx", sheet = 1)
 dsp2slidetrans$slidename <- str_replace_all(dsp2slidetrans$slidename, " ", "_")
 
 dsp2slidetrans$segment <- str_remove_all(dsp2slidetrans$segment, " ")
@@ -815,7 +815,7 @@ dsp2slidetrans$name <- str_replace_all(dsp2slidetrans$name, "slide_02_", "slide_
 dsp2slidetrans$name <- str_remove_all(dsp2slidetrans$name, "\\+")
 
 #ROI
-countsROIfilter <- read.xlsx("./221110_CS_GeoMx_RawCountMatrix_JG_LWedit_JGedit2_LWedit2.xlsx", # New counts, raw unfiltered
+countsROIfilter <- read.xlsx("./data/RawCountMatrix.xlsx", # New counts, raw unfiltered
     sheet = 4,
     # rowNames = T
 )
@@ -825,7 +825,7 @@ colnames(countsROIfilter) <- gsub(".|.", "_", colnames(countsROIfilter), fixed =
 colnames(countsROIfilter) <- gsub(".", "_", colnames(countsROIfilter), fixed = T)
 colnames(countsROIfilter) <- gsub("+", "", colnames(countsROIfilter), fixed = T)
 
-targetrun1 <- read.xlsx("./Copy of M-718 All Data WTA_no filter.xlsx", sheet=1)
+targetrun1 <- read.xlsx("./data/Metadata1.xlsx", sheet=1)
 targetrun1$Sample_ID <- gsub("Full.ROI", "FullROI", targetrun1$Sample_ID, fixed = T)
 targetrun1$Sample_ID <- gsub(".|.", "_", targetrun1$Sample_ID, fixed = T)
 targetrun1$Sample_ID <- gsub(".", "_", targetrun1$Sample_ID, fixed = T)
@@ -835,7 +835,7 @@ targetrun1 <- targetrun1[, c("SequencingSaturation", "RawReads", "StitchedReads"
                                     "AlignedReads", "DeduplicatedReads")]
 targetrun1ROI <- targetrun1[rownames(targetrun1) %in% colnames(countsROIfilter),]
 
-targetinforun2 <- read.xlsx("../221110_CS_GeoMx_SegmentSummary.xlsx", sheet = 1)
+targetinforun2 <- read.xlsx("./data/Metadata2.xlsx", sheet = 1)
 targetinforun2$Segment.name <- gsub(" ", "", targetinforun2$Segment.name)
 rownames(targetinforun2) <- paste(targetinforun2$Scan.name, targetinforun2$ROI.name,
              targetinforun2$Segment.name, sep="_")
