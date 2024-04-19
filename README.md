@@ -7,3 +7,4 @@ Code for generating gene network in the paper 2.Network.r
 
 Data available here: GSE227533 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE227533
 
+DOI 10.5281/zenodo.10998921
